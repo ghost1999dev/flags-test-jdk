@@ -19,7 +19,7 @@ The project follows best practices using functional components, hooks, and styli
 ## Live Demo
 
 You can see the app in action at the following link:
-[https://tu-app-restcountries.vercel.app](https://flagspracticajdk.netlify.app/)
+[https://flagspracticajdk.netlify.app/](https://flagspracticajdk.netlify.app/)
 
 ---
 
