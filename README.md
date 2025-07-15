@@ -6,7 +6,7 @@
   <img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" alt="Tailwind CSS" width="150" />
 </p>
 
-## Descripción
+## Description
 
 **REST Countries Explorer** is a web application built with  **React** y **React Router** that consumes the [API pública REST Countries](https://restcountries.com/).  
 
@@ -16,14 +16,14 @@ The project follows best practices using functional components, hooks, and styli
 
 ---
 
-## Demo en línea
+## Live Demo
 
 You can see the app in action at the following link:
 [https://tu-app-restcountries.vercel.app](https://tu-app-restcountries.vercel.app)
 
 ---
 
-## Tecnologías utilizadas
+## Tecnologies Used
 
 - React 18
 - React Router DOM
@@ -33,7 +33,7 @@ You can see the app in action at the following link:
 
 ---
 
-## Instalación y ejecución local
+## Installation and Local Run
 
 1. Clona el repositorio:
    ```bash
