@@ -8,7 +8,7 @@
 
 ## Description
 
-**REST Countries Explorer** is a web application built with  **React** y **React Router** that consumes the [API pública REST Countries](https://restcountries.com/).  
+**REST Countries Explorer** is a web application built with  **React** y **React Router** that consumes the [API pública REST Countries](https://flagspracticajdk.netlify.app/).  
 
 It allows you to search for countries by name, filter by region, and view detailed information about each country on a separate page. It also displays data such as flag, region, and capital.
 
