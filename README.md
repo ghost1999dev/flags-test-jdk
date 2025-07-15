@@ -8,7 +8,7 @@
 
 ## Description
 
-**REST Countries Explorer** is a web application built with  **React** y **React Router** that consumes the [API pública REST Countries](https://flagspracticajdk.netlify.app/).  
+**REST Countries Explorer** is a web application built with  **React** y **React Router** that consumes the [API pública REST Countries](https://restcountries.com/).  
 
 It allows you to search for countries by name, filter by region, and view detailed information about each country on a separate page. It also displays data such as flag, region, and capital.
 
@@ -19,7 +19,7 @@ The project follows best practices using functional components, hooks, and styli
 ## Live Demo
 
 You can see the app in action at the following link:
-[https://tu-app-restcountries.vercel.app](https://tu-app-restcountries.vercel.app)
+[https://tu-app-restcountries.vercel.app](https://flagspracticajdk.netlify.app/)
 
 ---
 
