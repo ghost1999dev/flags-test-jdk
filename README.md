@@ -1,9 +1,9 @@
 # REST Countries Explorer - React + React Router + Tailwind CSS
 
 <p align="center">
-  <img src="https://restcountries.com/assets/logo-restcountries.svg" alt="REST Countries API" height="120" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="150" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="150" />
+  <img src="https://vabadus.es/images/cache/imagen_nodo/images/articulos/64b524021adc5990918944.png" alt="Tailwind CSS" width="150" />
 </p>
 
 ## Descripción
