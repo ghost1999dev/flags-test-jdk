@@ -8,17 +8,17 @@
 
 ## Descripción
 
-**REST Countries Explorer** es una aplicación web desarrollada con **React** y **React Router** que consume la [API pública REST Countries](https://restcountries.com/).  
+**REST Countries Explorer** is a web application built with  **React** y **React Router** that consumes the [API pública REST Countries](https://restcountries.com/).  
 
-Permite buscar países por nombre, filtrar por región y ver información detallada de cada país en una página aparte. También muestra datos como bandera, región, capital, población y fronteras, con navegación entre países vecinos.
+It allows you to search for countries by name, filter by region, and view detailed information about each country on a separate page. It also displays data such as flag, region, and capital.
 
-El proyecto implementa buenas prácticas con componentes funcionales, hooks y estilos con Tailwind CSS.
+The project follows best practices using functional components, hooks, and styling with Tailwind CSS.
 
 ---
 
 ## Demo en línea
 
-Puedes ver la app funcionando en el siguiente enlace:  
+You can see the app in action at the following link:
 [https://tu-app-restcountries.vercel.app](https://tu-app-restcountries.vercel.app)
 
 ---
